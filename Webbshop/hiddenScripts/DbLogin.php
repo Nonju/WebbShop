@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: hannesalbinsson
- * Date: 2015-01-29
- * Time: 15:10
- */
-
 //PDO-connection with password, username and stuff
 
 $dbserver = "hannes2-192206.mysql.binero.se";
