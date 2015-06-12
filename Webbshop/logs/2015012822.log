@@ -1,0 +1,4 @@
+77.53.201.191 - - [28/Jan/2015:22:16:32 +0100] "GET /Webbshop HTTP/1.1" 301 518 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+77.53.201.191 - - [28/Jan/2015:22:16:32 +0100] "GET /Webbshop/ HTTP/1.1" 200 434 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+77.53.201.191 - - [28/Jan/2015:22:16:33 +0100] "GET /Webbshop/css/design.css HTTP/1.1" 200 436 "http://hannes.teknikprogrammet.org/Webbshop/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+77.53.201.191 - - [28/Jan/2015:22:16:33 +0100] "GET /favicon.ico HTTP/1.1" 404 1494 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action (Ctrl+S)" serverName="ProjectRoot">
+    <serverData>
+      <paths name="ProjectRoot">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/public_html/Webbshop" />
+            <excludedPath local="true" path="$PROJECT_DIR$/public_html/Webbshop" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="binero FTP-konto">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/Betygsdatabas" />
+            <excludedPath path="/DatabaseDemo" />
+            <excludedPath path="/FormsDatabase" />
+            <excludedPath path="/Images" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>
+

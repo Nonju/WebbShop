@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72d6785d-097c-473e-8f33-24efbffcab57" name="Default" comment="" />
+    <ignored path="Webbshop.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Webbshop">
+      <favorite_root url="file://$PROJECT_DIR$/public_html/Shop/visibleScripts/loginForm.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public_html/Shop/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="15" selection-start="810" selection-end="810" vertical-scroll-proportion="0.0" vertical-offset="995" max-vertical-offset="2057">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InsertNewUser.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hiddenScripts/user/InsertNewUser.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="64" selection-start="1534" selection-end="1534" vertical-scroll-proportion="0.6849558" vertical-offset="259" max-vertical-offset="850">
+              <folding>
+                <marker date="1426805219053" expanded="true" signature="1486:1591" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/css/design.css" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/hiddenScripts/DisplayItems.php" />
+        <option value="$PROJECT_DIR$/public_html/css/design.css" />
+        <option value="$PROJECT_DIR$/public_html/index.php" />
+        <option value="$PROJECT_DIR$/hiddenScripts/dbReciver.php" />
+        <option value="$PROJECT_DIR$/hiddenScripts/DbLogin.php" />
+        <option value="$PROJECT_DIR$/public_html/Shop/visibleScripts/ImgHeightAdjuster.js" />
+        <option value="$PROJECT_DIR$/hiddenScripts/itemDisplayer/productPage.php" />
+        <option value="$PROJECT_DIR$/hiddenScripts/searchSpace.php" />
+        <option value="$PROJECT_DIR$/public_html/Shop/visibleScripts/loginScript.html" />
+        <option value="$PROJECT_DIR$/hiddenScripts/loginForm.php" />
+        <option value="$PROJECT_DIR$/hiddenScripts/insertNewUser.php" />
+        <option value="$PROJECT_DIR$/public_html/Shop/visibleScripts/loginForm.html" />
+        <option value="$PROJECT_DIR$/hiddenScripts/user/insertNewUser.php" />
+        <option value="$PROJECT_DIR$/hiddenScripts/user/ErrorCodeDisplay.php" />
+        <option value="$PROJECT_DIR$/hiddenScripts/DbReciever.php" />
+        <option value="$PROJECT_DIR$/public_html/Shop/visibleScripts/design.js" />
+        <option value="$PROJECT_DIR$/hiddenScripts/itemDisplayer/articleObject.php" />
+        <option value="$PROJECT_DIR$/public_html/Shop/css/design.css" />
+        <option value="$PROJECT_DIR$/hiddenScripts/itemDisplayer/cartObject.php" />
+        <option value="$PROJECT_DIR$/hiddenScripts/itemDisplayer/DisplayItems.php" />
+        <option value="$PROJECT_DIR$/public_html/Shop/index.php" />
+        <option value="$PROJECT_DIR$/hiddenScripts/user/LoggedInHeaderSpace.php" />
+        <option value="$PROJECT_DIR$/hiddenScripts/itemDisplayer/ProductPage.php" />
+        <option value="$PROJECT_DIR$/hiddenScripts/user/LoginUser.php" />
+        <option value="$PROJECT_DIR$/hiddenScripts/user/InsertNewUser.php" />
+        <option value="$PROJECT_DIR$/hiddenScripts/user/ErrorcodeDisplay.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Webbshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Webbshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Webbshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Webbshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Webbshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public_html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Webbshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Webbshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public_html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Webbshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Webbshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public_html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="visibleScripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Webbshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Webbshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hiddenScripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Webbshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Webbshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hiddenScripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Webbshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Webbshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hiddenScripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="itemDisplayer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="web-ide.project.structure" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="SearchEverywhereHistory" value="&#10;&lt;" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../betygsdatabas" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\WebbserverProg\Webbshop\hiddenScripts" />
+      <recent name="C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\WebbserverProg\Webbshop\public_html\Shop\images" />
+      <recent name="C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\WebbserverProg\Webbshop\public_html\Shop\images\productIMGs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\WebbserverProg\Webbshop\hiddenScripts\user" />
+      <recent name="C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\WebbserverProg\Webbshop\public_html\Shop\visibleScripts" />
+      <recent name="C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\WebbserverProg\Webbshop\hiddenScripts\itemDisplayer" />
+      <recent name="C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\WebbserverProg\Webbshop\public_html\Shop" />
+      <recent name="C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\WebbserverProg\Webbshop\hiddenScripts\generateItems" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="9108721d-8f56-455a-ab00-1c6e04a1062b" server_name="binero FTP-konto">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72d6785d-097c-473e-8f33-24efbffcab57" name="Default" comment="" />
+      <created>1422345538427</created>
+      <updated>1422345538427</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15332326" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16747968" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23902439" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public_html/Shop/css/design.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="1" selection-start="480" selection-end="480" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="1071" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/Shop/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="10" selection-start="1465" selection-end="1465" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="986">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/DbLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="391" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/DbReciever.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="36" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="595" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/itemDisplayer/DisplayItems.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="35" selection-start="851" selection-end="857" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="799">
+          <folding>
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..products..." />
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..products..." />
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..products..." />
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT cart ..users..." />
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..products..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/itemDisplayer/articleObject.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="95" selection-start="897" selection-end="897" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="663" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/Shop/css/design.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="16" selection-start="478" selection-end="478" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="884" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/Shop/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="10" selection-start="1465" selection-end="1465" vertical-scroll-proportion="0.0" vertical-offset="731" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/DbLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="391" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/DbReciever.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="36" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="595" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/itemDisplayer/DisplayItems.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="43" selection-start="1217" selection-end="1217" vertical-scroll-proportion="0.0" vertical-offset="629" max-vertical-offset="884">
+          <folding>
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..products..." />
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..products..." />
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..products..." />
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT cart ..users..." />
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..products..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/itemDisplayer/articleObject.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="95" selection-start="897" selection-end="897" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="663" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/Shop/css/design.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="16" selection-start="478" selection-end="478" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="884" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/Shop/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="50" selection-start="731" selection-end="731" vertical-scroll-proportion="0.0" vertical-offset="154" max-vertical-offset="850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/DbLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="391" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/itemDisplayer/DisplayItems.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="51" selection-start="1001" selection-end="1001" vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="884">
+          <folding>
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..products..." />
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..products..." />
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..products..." />
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT cart ..users..." />
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..products..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/itemDisplayer/articleObject.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="95" selection-start="897" selection-end="897" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="663" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/Shop/css/design.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="16" selection-start="478" selection-end="478" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="884" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/Shop/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/DbLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="45" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/itemDisplayer/DisplayItems.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="499" selection-end="499" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="510">
+          <folding>
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..products..." />
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..products..." />
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..products..." />
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT cart ..users..." />
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..products..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/itemDisplayer/articleObject.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="6" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="289" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/Shop/css/design.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="84" selection-start="666" selection-end="666" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="867" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/Shop/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="32" selection-start="718" selection-end="718" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/DbLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="50" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/itemDisplayer/DisplayItems.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="499" selection-end="499" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="510">
+          <folding>
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..products..." />
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..products..." />
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..products..." />
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT cart ..users..." />
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..products..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/itemDisplayer/articleObject.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="6" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="289" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/Shop/css/design.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="13" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0" vertical-offset="290" max-vertical-offset="833" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/Shop/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/DbLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="50" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/Shop/css/design.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="17" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0" vertical-offset="103" max-vertical-offset="799" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/Shop/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="31" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/Shop/css/design.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="17" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0" vertical-offset="103" max-vertical-offset="799" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="20" selection-start="402" selection-end="402" vertical-scroll-proportion="0.33333334" vertical-offset="42" max-vertical-offset="3859">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/Shop/images/productIMGs/Dator1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/Shop/css/design.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="216" column="28" selection-start="3783" selection-end="3783" vertical-scroll-proportion="0.24086021" vertical-offset="3560" max-vertical-offset="4097" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/user/LoggedInHeaderSpace.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="35" selection-start="506" selection-end="506" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1275" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/itemDisplayer/cartObject.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="16" selection-start="475" selection-end="475" vertical-scroll-proportion="0.34168565" vertical-offset="156" max-vertical-offset="595" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/itemDisplayer/ProductPage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="56" selection-start="1124" selection-end="1124" vertical-scroll-proportion="1.0347826" vertical-offset="0" max-vertical-offset="714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/user/LoginUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="25" selection-start="697" selection-end="697" vertical-scroll-proportion="0.59130436" vertical-offset="0" max-vertical-offset="918" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/user/passwordCrypt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4981" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/searchSpace.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="42" selection-start="213" selection-end="213" vertical-scroll-proportion="0.25869566" vertical-offset="0" max-vertical-offset="460" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/user/ErrorcodeDisplay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="31" selection-start="1607" selection-end="1607" vertical-scroll-proportion="-0.5173913" vertical-offset="782" max-vertical-offset="1275" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/DbReciever.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="18" selection-start="117" selection-end="117" vertical-scroll-proportion="0.09026549" vertical-offset="0" max-vertical-offset="565" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/Shop/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="15" selection-start="810" selection-end="810" vertical-scroll-proportion="0.0" vertical-offset="995" max-vertical-offset="2057">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/DbLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="29" selection-start="226" selection-end="226" vertical-scroll-proportion="0.18053098" vertical-offset="0" max-vertical-offset="565" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/Shop/visibleScripts/loginForm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="47" selection-start="1347" selection-end="1347" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="1054">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/Shop/visibleScripts/design.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="35" selection-start="1461" selection-end="1461" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/itemDisplayer/articleObject.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="46" selection-start="700" selection-end="700" vertical-scroll-proportion="-9.807693" vertical-offset="102" max-vertical-offset="748">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/itemDisplayer/DisplayItems.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="29" selection-start="2970" selection-end="2970" vertical-scroll-proportion="3.1153846" vertical-offset="1339" max-vertical-offset="1904">
+          <folding>
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..products..." />
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..products..." />
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..products..." />
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT cart ..users..." />
+            <marker date="1426801849989" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..products..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiddenScripts/user/InsertNewUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="64" selection-start="1534" selection-end="1534" vertical-scroll-proportion="0.6849558" vertical-offset="259" max-vertical-offset="850">
+          <folding>
+            <marker date="1426805219053" expanded="true" signature="1486:1591" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

@@ -1,0 +1,2 @@
+195.84.40.5 - - [28/Jan/2015:08:16:17 +0100] "GET /Webbshop/ HTTP/1.1" 200 435 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.91 Safari/537.36"
+195.84.40.5 - - [28/Jan/2015:08:16:18 +0100] "GET /Webbshop/css/design.css HTTP/1.1" 200 436 "http://hannes.teknikprogrammet.org/Webbshop/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.91 Safari/537.36"

@@ -1,0 +1,57 @@
+<div id="loginSpace">
+    <h2 id="loginHeadline">Logga in!</h2>
+    <div id="formMessageBox"><p id="fmbText"></p></div> <!-- a place to tell the user things -->
+
+    <form method="post" id="loginForm">
+        <p>Fyll i uppgifterna nedan:</p>
+        <p>
+            <input id="loginUsername" type="text" name="submitUsername" value="Användarnamn" onfocus="clearFunction('loginUsername')" /> <!-- value="Användarnamn" -->
+        </p>
+        <p>
+            <input id="loginPassword" type="text" name="submitPassword" value="Lösenord" onfocus="clearFunction('loginPassword'), changeToPassword('loginPassword')" /> <!-- value="Lösenord" -->
+        </p>
+        <input type="submit" value="Logga in!" name="submit-logon-form">
+        <input type="button" value="Skapa användare" onclick="changeForm('loginForm', 'createUserForm')">
+    </form>
+
+    <form method="post" id="createUserForm">
+        <p>Fyll i uppgifterna nedan:</p>
+        <p>
+            <input id="usernameInput" type="text" name="createUsername" value="Användarnamn" onfocus="clearFunction('usernameInput')" />
+        </p>
+        <p>
+            <input id="passwordInput" type="text" name="createPassword" value="Lösenord" onfocus="clearFunction('passwordInput'), changeToPassword('passwordInput')"  />
+        </p>
+        <p>
+            <input id="confirmPassword" type="text" name="confirmPassword" value="Bekräfta lösenord" onfocus="clearFunction('confirmPassword'), changeToPassword('confirmPassword')" />
+        </p>
+        <p>
+            <input id="emailInput" type="text" name="createEmail" value="Email" onfocus="clearFunction('emailInput')" />
+        </p>
+        <input type="submit" value="Skapa användare" name="create-user-form" />
+        <input type="button" value="Logga in!" onclick="changeForm('loginForm', 'createUserForm')" />
+
+    </form>
+</div>
+<script>
+    function clearFunction($id) {
+        document.getElementById($id).value = "";
+    }
+
+    $loginForm = true;
+    function changeForm($loginId, $createUserId) {
+        if($loginForm) {
+            document.getElementById($loginId).style.display = "block";
+            document.getElementById($createUserId).style.display = "none";
+        }
+        else {
+            document.getElementById($loginId).style.display = "none";
+            document.getElementById($createUserId).style.display = "block";
+        }
+        $loginForm = !$loginForm;
+    }
+
+    function changeToPassword($id) {
+        document.getElementById($id).type = "password";
+    }
+</script>

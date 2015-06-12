@@ -1,0 +1,111 @@
+[13-Nov-2014 14:24:10] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user '192206_yb98932'@'10.208.3.46' (using password: YES)' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/DatabaseDemo/albinzon.php:4
+Stack trace:
+#0 /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/DatabaseDemo/albinzon.php(4): PDO->__construct('mysql:host=hann...', '192206_yb98932', 'VlhVlj123')
+#1 {main}
+  thrown in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/DatabaseDemo/albinzon.php on line 4
+[13-Nov-2014 14:24:28] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user '192206_yb98932'@'10.208.3.46' (using password: YES)' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/DatabaseDemo/albinzon.php:4
+Stack trace:
+#0 /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/DatabaseDemo/albinzon.php(4): PDO->__construct('mysql:host=hann...', '192206_yb98932', 'VlhVlj123')
+#1 {main}
+  thrown in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/DatabaseDemo/albinzon.php on line 4
+[13-Nov-2014 14:24:29] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user '192206_yb98932'@'10.208.3.46' (using password: YES)' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/DatabaseDemo/albinzon.php:4
+Stack trace:
+#0 /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/DatabaseDemo/albinzon.php(4): PDO->__construct('mysql:host=hann...', '192206_yb98932', 'VlhVlj123')
+#1 {main}
+  thrown in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/DatabaseDemo/albinzon.php on line 4
+[13-Nov-2014 14:24:29] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user '192206_yb98932'@'10.208.3.46' (using password: YES)' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/DatabaseDemo/albinzon.php:4
+Stack trace:
+#0 /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/DatabaseDemo/albinzon.php(4): PDO->__construct('mysql:host=hann...', '192206_yb98932', 'VlhVlj123')
+#1 {main}
+  thrown in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/DatabaseDemo/albinzon.php on line 4
+[13-Nov-2014 14:24:29] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user '192206_yb98932'@'10.208.3.46' (using password: YES)' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/DatabaseDemo/albinzon.php:4
+Stack trace:
+#0 /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/DatabaseDemo/albinzon.php(4): PDO->__construct('mysql:host=hann...', '192206_yb98932', 'VlhVlj123')
+#1 {main}
+  thrown in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/DatabaseDemo/albinzon.php on line 4
+[13-Nov-2014 14:24:30] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user '192206_yb98932'@'10.208.3.46' (using password: YES)' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/DatabaseDemo/albinzon.php:4
+Stack trace:
+#0 /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/DatabaseDemo/albinzon.php(4): PDO->__construct('mysql:host=hann...', '192206_yb98932', 'VlhVlj123')
+#1 {main}
+  thrown in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/DatabaseDemo/albinzon.php on line 4
+[13-Nov-2014 14:24:30] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user '192206_yb98932'@'10.208.3.46' (using password: YES)' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/DatabaseDemo/albinzon.php:4
+Stack trace:
+#0 /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/DatabaseDemo/albinzon.php(4): PDO->__construct('mysql:host=hann...', '192206_yb98932', 'VlhVlj123')
+#1 {main}
+  thrown in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/DatabaseDemo/albinzon.php on line 4
+[25-Nov-2014 10:17:21] PHP Parse error:  syntax error, unexpected '$', expecting T_FUNCTION in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/pointsCalc.php on line 11
+[25-Nov-2014 10:18:03] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/betygsdatabas.php on line 27
+[26-Nov-2014 22:40:24] PHP Warning:  Division by zero in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/pointsCalc.php on line 21
+[02-Dec-2014 10:24:54] PHP Parse error:  syntax error, unexpected $end in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/ckedit.php on line 70
+[02-Dec-2014 10:28:52] PHP Parse error:  syntax error, unexpected $end in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/ckedit.php on line 70
+[02-Dec-2014 10:28:55] PHP Parse error:  syntax error, unexpected $end in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/ckedit.php on line 70
+[04-Dec-2014 14:00:40] PHP Parse error:  syntax error, unexpected '}' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/ckedit.php on line 11
+[04-Dec-2014 14:04:41] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2005] Unknown MySQL server host 'hannes-192206.mysql.binero.se.mysql.binero.se' (1)' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/SQL.php:3
+Stack trace:
+#0 /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/SQL.php(3): PDO->__construct('mysql:host=hann...', '192206_yb98932', 'tamoknab')
+#1 {main}
+  thrown in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/SQL.php on line 3
+[09-Dec-2014 08:30:45] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:30:56] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:31:27] PHP Parse error:  syntax error, unexpected T_STRING in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:39:00] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:03] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:04] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:05] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:05] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:05] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:06] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:06] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:06] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:06] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:06] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:07] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:07] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:07] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:07] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:07] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:07] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:08] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:08] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:08] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:08] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:08] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:08] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:08] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:08] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:08] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:08] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:08] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:08] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:08] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:08] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:09] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:09] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:09] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:09] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:09] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:09] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:10] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:10] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:41:10] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:45:45] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 84
+[09-Dec-2014 08:45:45] PHP Parse error:  syntax error, unexpected T_STRING in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 84
+[09-Dec-2014 08:46:37] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:46:41] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:46:42] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:46:42] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:46:42] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:46:42] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:46:43] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:46:43] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:46:44] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:46:44] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:46:44] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:46:44] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 08:58:48] PHP Parse error:  syntax error, unexpected T_IF in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 10
+[09-Dec-2014 08:58:56] PHP Parse error:  syntax error, unexpected T_IF in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 10
+[09-Dec-2014 08:58:57] PHP Parse error:  syntax error, unexpected T_IF in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 10
+[09-Dec-2014 08:58:57] PHP Parse error:  syntax error, unexpected T_IF in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 10
+[09-Dec-2014 08:58:58] PHP Parse error:  syntax error, unexpected T_IF in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 10
+[09-Dec-2014 08:59:03] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9
+[09-Dec-2014 09:00:50] PHP Parse error:  syntax error, unexpected '{' in /storage/content/06/192206/hannes.teknikprogrammet.org/public_html/Betygsdatabas/kryptering/passwordCrypt.php on line 9

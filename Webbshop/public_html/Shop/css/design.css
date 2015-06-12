@@ -1,0 +1,236 @@
+* { /*General settings*/
+    padding: 0;
+    margin: 0;
+}
+body {
+    /*background-color: #cbcbcb;*/
+    background-color: #cecece;
+    font-family: Calibri;
+}
+
+#wrapper {
+    background-color: grey; /* areamarker */
+    width: 100%;
+}
+ /* HEADER */
+#header {
+    /*background-color: #9b69ff; /* areamarker */
+    /*background-color: #ececec;*/
+    background-color: #eaebdf;
+    width: 100%;
+    min-height: 200px;
+}
+#headerIMG {
+    width: 50%;
+    float: left;
+}
+/*login*/
+#innerHeaderWrapper {
+
+    border: 1px solid green;
+    /*width: 45%;*/
+}
+#headerSpace {
+    /*border: 1px solid red; */
+    width: 48%;
+    float: left;
+}
+#loginSpace, #loggedinSpace, #searchSpace {
+    border: 2px solid black;
+    /*float: left;*/
+    width: 100%;
+}
+#loginSpace {
+    position: relative;
+    background-color: rgb(255, 199, 41);
+}
+#loginHeadline {
+    text-align: center;
+}
+#loginForm, #createUserForm {
+    float: right;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 3%;
+}
+#createUserForm {
+    display: none;
+}
+#formMessageBox {
+    border: 2px solid lightgray;
+    background-color: #f0f0f0;
+    width: 40%;
+    margin: 3%;
+    display: none;
+
+}
+#loggedinSpace {
+    background-color: #f29500;
+}
+#signoffBtn {
+    border: 2px solid black;
+    background-color: lightblue;
+    text-decoration: none;
+}
+#signoffBtn:hover {
+    background-color: #a5c9d5;
+}
+
+
+/* END HEADER */
+
+/* CATEGORYMENU */
+#categoryMenu {
+    background-color: #ffaf00; /* areamarker */
+    width: 100%;
+    min-height: 50px;
+    /*width: 20%;
+    min-height: 400px;
+    float: left;*/
+    /*border: 2px solid red; */
+}
+.catMenuSec {
+    float: left;
+    padding: 1% 2% 1% 2%;
+    width: 20%;
+    text-align: center;
+    /*border: 2px solid black;*/
+}
+.catMenuSec:hover {
+    background-color: #fba100;
+}
+.catMenuSec {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    font: bolder;
+}
+
+/* END CATEGORYMENU */
+
+/* ARTICLESPACE */
+#articleSpace {
+    background-color: #8aacb9; /* areamarker */
+    width: 93%;
+    min-height: 600px;
+    float: left;
+    margin: 0 3% 0 3%;
+}
+/* ARTICLEOBJECT */
+.articleObject {
+    float: left;
+    background-color: #e4e4e4; /* off-white */
+    width: 20%;
+    min-height: 300px; /*hej*/
+    max-height: 600px;
+    margin: 1%;
+    /*border: 5px solid purple; */
+    position: relative; /* for .lowerDiv */
+}
+.articleObject, .articleObject > img  {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.articleObject * {
+    float: left;
+
+}
+.artIMG {
+    width: 100%;
+}
+.artLink {
+    text-decoration: none;
+    font-size: 35px;
+    /*font-family: Calibri;*/
+    color: #000082;
+    float: left;
+    /*border: 5px solid black;*/
+    width: 60%;
+}
+.artLink:hover {
+    text-decoration: underline;
+    color: #433cff;
+}
+.artPrice {
+    font-size: 35px;
+    color: red;
+    float: right;
+}
+.nameAndPrice {
+    width: 100%;
+}
+.artDescrip {
+    padding: 2%;
+}
+.lowerDiv {
+    /* border: 2px solid black; */
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    margin: 0 1% 1% 0;
+}
+.lowerDiv > p {
+    width: 28%;
+    padding-left: 5%;
+}
+.lowerDiv > a {
+    width: 60%;
+    /*border: 1px solid black; */
+    background-color: #00b000;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+.lowerDiv > a:hover {
+    background-color: #00e500;
+}
+
+/*END ARTICLEOBJECT */
+/*PRODUCTPAGE */
+#ppIMG {
+    width: 35%;
+    margin: 2%;
+    border: 2px solid black;
+    float: left;
+}
+#ppBuyInfo {
+    width: 55%;
+    margin: 2%;
+    float: left;
+    border: 2px solid black;
+}
+#ppName {
+    width: 50%;
+    font-size: 60px;
+}
+#ppDescription {
+    float: left;
+}
+
+/*END PRODUCTPAGE */
+/*CARTOBJECT*/
+#cartItem {
+    border: 1px solid black;
+    margin: 4%;
+    width: 100%;
+    float: left;
+}
+#cartItem > img {
+    float: left;
+}
+#cartItemInfo {
+    float: left;
+    border: 1px solid red;
+}
+
+/*END CARTOBJECT */
+/*END ARTICLESPACE */
+
+/* clears "float left"'s */
+.clear { /* should maybe be placed at bottom */
+    clear: both;
+}
